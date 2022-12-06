@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "533350667787",
+    "firebase_url": "https://uber-clone-ef1f4-default-rtdb.firebaseio.com",
+    "project_id": "uber-clone-ef1f4",
+    "storage_bucket": "uber-clone-ef1f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533350667787:android:d8fe68027f5049dc80990e",
+        "android_client_info": {
+          "package_name": "com.ara.drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533350667787-tkallmdgoupqeb624cbmkse8lfrkq1lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblejK7xv970rBCclyK0mFwvaaZei1STg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533350667787-tkallmdgoupqeb624cbmkse8lfrkq1lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533350667787-p53qj2dvmf81v00r67f9nv3l176m8nkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ara.usersApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533350667787:android:556c38341974addc80990e",
+        "android_client_info": {
+          "package_name": "com.ara.users_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533350667787-tkallmdgoupqeb624cbmkse8lfrkq1lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblejK7xv970rBCclyK0mFwvaaZei1STg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533350667787-tkallmdgoupqeb624cbmkse8lfrkq1lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533350667787-p53qj2dvmf81v00r67f9nv3l176m8nkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ara.usersApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
